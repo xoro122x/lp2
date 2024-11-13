@@ -1,0 +1,16 @@
+Salesforce
+ved452003@gmail.com
+pass: Vedant@12345678
+
+
+For salesforce apex:
+>Open debug console
+>Enter the Apex code
+>Run it in debug section in debug only
+
+
+For salesforce app:
+>Create objects
+>Create tab and add objects in it
+>search for app then go into app manager and create lightning app.
+>add objects into your app
